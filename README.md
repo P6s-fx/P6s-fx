@@ -1,8 +1,8 @@
 ```zsh
-> neofetch
+> neofetch profile-summary
 ```
 
-<img align="left" src="https://github.com/P6s-fx/P6s-fx/blob/main/ascii1.png" width="380"/>
+<img align="left" src="https://github.com/P6s-fx/P6s-fx/blob/main/ascii1.png" width="310"/>
 
 ```csharp
 p6s-fx@github
@@ -19,7 +19,75 @@ Languages: JavaScript, Python, C++
 Frameworks: React, Node.js, Angular
 Learning: Rust, PostgreSQL, Next
 Projects: HRMS, Stock Screener, Portfolio Web
-Location: 🌍 India
-GitHub Stats: Commits: 1.2k | Stars: 35+
-Discord: param#0001
+```
+```zsh
+> neofetch Personal-Info
+```
+
+
+```csharp
+Username:     P6s
+Name:         Param Suthar
+Location:     India
+Timezone:     IST (UTC +5:30)
+Pronouns:     he/him
+Dev Since:    2021
+Hobbies:      Coding, Reading, Solving
+```
+```zsh
+> neofetch Contact
+```
+
+```csharp
+GitHub:       github.com/P6s-fx
+Email:        param@example.com
+Discord:      param#0001
+LinkedIn:     linkedin.com/in/p6s-fx
+Website:      https://p6s.dev
+```
+```zsh
+> neofetch Learning
+```
+
+```csharp
+Libraries:    Advanced Web Aminations, Python with AI-ML, BlockChain
+Databases:    PostgreSQL
+Frameworks:   Next.js, Tailwind CSS
+Tooling:      Docker, CI/CD, Linux internals
+
+```
+```zsh
+> neofetch Stats
+```
+
+```csharp
+Public Repos:    6+
+Contributions:   0.05k+ commits
+Stars:           5+
+Followers:       1+
+```
+```zsh
+> neofetch Toolchain
+```
+
+```csharp
+Shell:          zsh
+Terminal:       Alacritty
+Editor:         Neovim + LazyVim + Cursor
+Font:           JetBrainsMono Nerd Font
+Color Scheme:   Gruvbox Dark
+Dotfiles:       github.com/P6s-fx/dotfiles
+```
+```zsh
+> neofetch Projects
+```
+
+```csharp
+• HRMS             → Employee management app built with React & Node
+• Stock Screener   → Screener using fin APIs and D3.js
+• Portfolio Web    → Built with Astro + Tailwind + Animations
+• Image Dehazing   → Research Project
+```
+```zsh
+> exit
 ```
