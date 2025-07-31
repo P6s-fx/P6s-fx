@@ -23,13 +23,3 @@ Location: 🌍 India
 GitHub Stats: Commits: 1.2k | Stars: 35+
 Discord: param#0001
 ```
-
-<br clear="left"/>
-
-<p align="left">
-  <img alt="#5c6370" src="https://via.placeholder.com/15/5c6370/000000?text=+" width="20" height="20" />
-  <img alt="#abb2bf" src="https://via.placeholder.com/15/abb2bf/000000?text=+" width="20" height="20" />
-  <img alt="#61afef" src="https://via.placeholder.com/15/61afef/000000?text=+" width="20" height="20" />
-  <img alt="#98c379" src="https://via.placeholder.com/15/98c379/000000?text=+" width="20" height="20" />
-  <img alt="#e06c75" src="https://via.placeholder.com/15/e06c75/000000?text=+" width="20" height="20" />
-</p>
