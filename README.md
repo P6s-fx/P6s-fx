@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/P6s-fx/P6s-fx/blob/main/ascii1.jpg" width="120"/>
+<img align="left" src="https://github.com/P6s-fx/P6s-fx/blob/main/ascii1.png" width="380"/>
 
 ```csharp
 p6s-fx@github
