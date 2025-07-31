@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="120"/>
+<img align="left" src="https://github.com/P6s-fx/P6s-fx/blob/main/6s%20Lg%20v1%20JPG.jpg" width="120"/>
 
 ```csharp
 p6s-fx@github
