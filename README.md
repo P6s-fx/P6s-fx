@@ -6,6 +6,7 @@
 
 <img align="left" src="./resources/tuf.png" width="200"/>
 
+
 ```csharp
 P6s --system-config >>>
 ---------------
@@ -28,6 +29,7 @@ Projects: ERP, Image Research, IoT
 ```zsh
 > neofetch Personal-Info
 ```
+
 
 ```csharp
 Username:     P6s
