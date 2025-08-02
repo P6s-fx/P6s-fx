@@ -4,7 +4,6 @@
 > neofetch system-config
 ```
 
-<img align="left" src="./resources/tuf.png" width="200"/>
 
 
 ```csharp
