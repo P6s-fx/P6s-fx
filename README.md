@@ -1,4 +1,4 @@
-<img align="left" src="./resources/Github Banner.png" width=""/>
+<img align="left" src="./resources/Github Banner1.gif" width=""/>
 
 ```zsh
 > neofetch system-config
