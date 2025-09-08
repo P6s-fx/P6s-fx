@@ -8,14 +8,18 @@
 
 
 ```csharp
-P6s --system-config >>>
+p6s@archlinux
 ---------------
 OS: Arch Linux x86_64 && Windows 11 Pro
-Host: Asus TUF Gaming F17
+Host: Inspiron 15-3567 && Asus TUF Gaming F17
+CPU: Intel i3-6006U (4) @ 2.000GHz
+GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M33
 Kernel: 6.9.1-arch1-1
-Shell: zsh
-Terminal: Alacritty
-Font: JetBrainsMono Nerd Font
+Shell: bash 5.3.3
+DE: Plasma 6.4.4
+WM: kwin 
+Terminal: Konsole
+Font: Nerd Font
 Editor: Neovim && Cursor
 Languages: JavaScript, Python, C++
 Frameworks: MERN, MEAN
@@ -37,7 +41,7 @@ Name:         Param Suthar
 Location:     India
 Timezone:     IST (UTC +5:30)
 Pronouns:     he/him
-Dev Since:    2021
+Since:        2021
 Hobbies:      Coding, Reading, Content Creation
 ```
 
@@ -78,10 +82,10 @@ Followers:       1+
 ```
 
 ```csharp
-Shell:          zsh
-Terminal:       Alacritty
+Shell:          bash
+Terminal:       Konsole
 Editor:         Neovim + LazyVim + Cursor
-Font:           JetBrainsMono Nerd Font
+Font:           Nerd Font
 Color Scheme:   Gruvbox Dark
 ```
 ```zsh
@@ -93,6 +97,7 @@ Color Scheme:   Gruvbox Dark
 • Stock Screener   → Screener using fin APIs and D3.js
 • Portfolio Web    → Built with Astro + Tailwind + Animations
 • Image Dehazing   → Research Project
+• Dynofox          → AI Automated Legal Document Generator
 ```
 ```zsh
 > exit
