@@ -12,15 +12,15 @@ p6s@archlinux
 ---------------
 OS: Arch Linux x86_64 && Windows 11 Pro
 Host: Inspiron 15-3567 && Asus TUF Gaming F17
-CPU: Intel i3-6006U (4) @ 2.000GHz
-GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M33
+CPU: Intel i3-6006U (4) @ 2.00 GHz && Intel(R) Core(TM) i5-12500H, 2.50 GHz
+GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M33 && Nvidia GeForce RTX 3050 Mobile
 Kernel: 6.9.1-arch1-1
 Shell: bash 5.3.3
 DE: Plasma 6.4.4
 WM: kwin 
 Terminal: Konsole
 Font: Nerd Font
-Editor: Neovim && Cursor
+Editor: VSCode + Windsurf + Cursor
 Languages: JavaScript, Python, C++
 Frameworks: MERN, MEAN
 Learning: MongoDB, PostgreSQL, Mysql
@@ -52,9 +52,9 @@ Hobbies:      Coding, Reading, Content Creation
 ```csharp
 GitHub:       github.com/P6s-fx
 Email:        param.corpid@gmail.com
-Discord:      p6s-fx
+Discord:      p6sfx
 LinkedIn:     linkedin.com/in/paramsuthar
-Website:      https://p6s.dev
+Website:      https://p6s.in
 ```
 ```zsh
 > neofetch Learning
@@ -62,7 +62,7 @@ Website:      https://p6s.dev
 
 ```csharp
 Libraries:    Advanced Web Aminations, Python with AI-ML, BlockChain
-Databases:    PostgreSQL
+Databases:    PostgreSQL, Mysql
 Frameworks:   Next.js, Tailwind CSS
 Tooling:      Docker, CI/CD, Linux internals
 
@@ -84,7 +84,7 @@ Followers:       1+
 ```csharp
 Shell:          bash
 Terminal:       Konsole
-Editor:         Neovim + LazyVim + Cursor
+Editor:         VSCode + Windsurf + Cursor
 Font:           Nerd Font
 Color Scheme:   Gruvbox Dark
 ```
