@@ -1,10 +1,12 @@
 <img align="left" src="./resources/Github Banner1.gif" width="1500"/>
-//////
+/////////////////////////////////////////////////////////////////////////
+
+![P6s's GitHub stats](https://github-readme-stats.vercel.app/api?username=P6s-fx&theme=github_dark&show_icons=true)
+
 
 ```zsh
 > neofetch system-config
 ```
-
 
 
 ```csharp
