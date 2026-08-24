@@ -68,6 +68,22 @@ Tooling:      Docker, CI/CD, Linux internals
 
 ```
 ```zsh
+> neofetch Contributions
+```
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" width="100%">
+</p>
+
+```zsh
+> neofetch Languages
+```
+
+<p align="center">
+  <img src="./metrics.plugin.languages.svg" alt="Languages activity" width="100%">
+</p>
+
+```zsh
 > neofetch Stats
 ```
 

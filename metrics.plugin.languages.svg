@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="386" viewBox="0 0 900 386" role="img" aria-label="Languages activity">
+  <defs>
+    <clipPath id="most-bar"><rect x="24" y="64" width="852" height="8" rx="4"/></clipPath>
+    <clipPath id="recent-bar"><rect x="24" y="268" width="852" height="8" rx="4"/></clipPath>
+  </defs>
+  <style>
+    .title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3; }
+    .sub { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .name { font: 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .meta { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <text class="title" x="24" y="28">Most used languages</text>
+  <text class="sub" x="24" y="48">estimation from 7.57 MB of code across 12 repositories</text>
+  <g clip-path="url(#most-bar)"><rect x="24.00" y="64" width="774.11" height="8" fill="#3178c6"/><rect x="798.11" y="64" width="55.26" height="8" fill="#f1e05a"/><rect x="853.37" y="64" width="14.54" height="8" fill="#336790"/><rect x="867.91" y="64" width="7.27" height="8" fill="#3572A5"/><rect x="875.18" y="64" width="0.82" height="8" fill="#f34b7d"/></g>
+  <circle cx="28" cy="98" r="5" fill="#3178c6"/>
+      <text class="name" x="42" y="99">TypeScript</text>
+      <text class="meta" x="42" y="116">171.75k lines · 6.88 MB · 90.9%</text>
+<circle cx="458" cy="98" r="5" fill="#f1e05a"/>
+      <text class="name" x="472" y="99">JavaScript</text>
+      <text class="meta" x="472" y="116">12.26k lines · 503 kB · 6.49%</text>
+<circle cx="28" cy="136" r="5" fill="#336790"/>
+      <text class="name" x="42" y="137">PLpgSQL</text>
+      <text class="meta" x="42" y="154">3.23k lines · 132 kB · 1.71%</text>
+<circle cx="458" cy="136" r="5" fill="#3572A5"/>
+      <text class="name" x="472" y="137">Python</text>
+      <text class="meta" x="472" y="154">1.61k lines · 66.2 kB · 0.85%</text>
+<circle cx="28" cy="174" r="5" fill="#f34b7d"/>
+      <text class="name" x="42" y="175">C++</text>
+      <text class="meta" x="42" y="192">183 lines · 7.51 kB · 0.10%</text>
+  <text class="title" x="24" y="232">Recently used languages</text>
+  <text class="sub" x="24" y="252">from 12 public commits in the last 90 days</text>
+  <g clip-path="url(#recent-bar)"><rect x="24.00" y="268" width="837.48" height="8" fill="#3178c6"/><rect x="861.48" y="268" width="14.38" height="8" fill="#336790"/><rect x="875.86" y="268" width="0.14" height="8" fill="#f1e05a"/></g>
+  <circle cx="28" cy="302" r="5" fill="#3178c6"/>
+      <text class="name" x="42" y="303">TypeScript</text>
+      <text class="meta" x="42" y="320">98.3%</text>
+<circle cx="458" cy="302" r="5" fill="#336790"/>
+      <text class="name" x="472" y="303">PLpgSQL</text>
+      <text class="meta" x="472" y="320">1.69%</text>
+<circle cx="28" cy="340" r="5" fill="#f1e05a"/>
+      <text class="name" x="42" y="341">JavaScript</text>
+      <text class="meta" x="42" y="358">0.02%</text>
+</svg>
