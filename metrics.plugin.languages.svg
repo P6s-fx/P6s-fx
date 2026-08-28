@@ -29,15 +29,15 @@
       <text class="name" x="42" y="175">C++</text>
       <text class="meta" x="42" y="192">183 lines · 7.51 kB · 0.10%</text>
   <text class="title" x="24" y="232">Recently used languages</text>
-  <text class="sub" x="24" y="252">from 16 public commits in the last 90 days</text>
-  <g clip-path="url(#recent-bar)"><rect x="24.00" y="268" width="578.92" height="8" fill="#3178c6"/><rect x="602.92" y="268" width="263.14" height="8" fill="#f1e05a"/><rect x="866.06" y="268" width="9.94" height="8" fill="#336790"/></g>
+  <text class="sub" x="24" y="252">from 14 public commits in the last 90 days</text>
+  <g clip-path="url(#recent-bar)"><rect x="24.00" y="268" width="455.79" height="8" fill="#3178c6"/><rect x="479.79" y="268" width="388.39" height="8" fill="#f1e05a"/><rect x="868.18" y="268" width="7.82" height="8" fill="#336790"/></g>
   <circle cx="28" cy="302" r="5" fill="#3178c6"/>
       <text class="name" x="42" y="303">TypeScript</text>
-      <text class="meta" x="42" y="320">67.9%</text>
+      <text class="meta" x="42" y="320">53.5%</text>
 <circle cx="458" cy="302" r="5" fill="#f1e05a"/>
       <text class="name" x="472" y="303">JavaScript</text>
-      <text class="meta" x="472" y="320">30.9%</text>
+      <text class="meta" x="472" y="320">45.6%</text>
 <circle cx="28" cy="340" r="5" fill="#336790"/>
       <text class="name" x="42" y="341">PLpgSQL</text>
-      <text class="meta" x="42" y="358">1.17%</text>
+      <text class="meta" x="42" y="358">0.92%</text>
 </svg>
