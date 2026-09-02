@@ -29,7 +29,7 @@
       <text class="name" x="42" y="175">C++</text>
       <text class="meta" x="42" y="192">183 lines · 7.51 kB · 0.10%</text>
   <text class="title" x="24" y="232">Recently used languages</text>
-  <text class="sub" x="24" y="252">from 12 public commits in the last 90 days</text>
+  <text class="sub" x="24" y="252">from 13 public commits in the last 90 days</text>
   <g clip-path="url(#recent-bar)"><rect x="24.00" y="268" width="852" height="8" fill="#f1e05a"/></g>
   <circle cx="28" cy="302" r="5" fill="#f1e05a"/>
       <text class="name" x="42" y="303">JavaScript</text>
