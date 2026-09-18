@@ -11,7 +11,7 @@
     .meta { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
   </style>
   <text class="title" x="24" y="28">Most used languages</text>
-  <text class="sub" x="24" y="48">estimation from 7.58 MB of code across 13 repositories</text>
+  <text class="sub" x="24" y="48">estimation from 7.58 MB of code across 12 repositories</text>
   <g clip-path="url(#most-bar)"><rect x="24.00" y="64" width="772.9" height="8" fill="#3178c6"/><rect x="796.90" y="64" width="56.51" height="8" fill="#f1e05a"/><rect x="853.41" y="64" width="14.51" height="8" fill="#336790"/><rect x="867.92" y="64" width="7.26" height="8" fill="#3572A5"/><rect x="875.18" y="64" width="0.82" height="8" fill="#f34b7d"/></g>
   <circle cx="28" cy="98" r="5" fill="#3178c6"/>
       <text class="name" x="42" y="99">TypeScript</text>
@@ -29,7 +29,7 @@
       <text class="name" x="42" y="175">C++</text>
       <text class="meta" x="42" y="192">183 lines · 7.51 kB · 0.10%</text>
   <text class="title" x="24" y="232">Recently used languages</text>
-  <text class="sub" x="24" y="252">from 25 public commits in the last 90 days</text>
+  <text class="sub" x="24" y="252">from 26 public commits in the last 90 days</text>
   <g clip-path="url(#recent-bar)"><rect x="24.00" y="268" width="852" height="8" fill="#f1e05a"/></g>
   <circle cx="28" cy="302" r="5" fill="#f1e05a"/>
       <text class="name" x="42" y="303">JavaScript</text>
