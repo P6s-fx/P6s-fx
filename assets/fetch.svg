@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="439" viewBox="0 0 900 439" role="img" aria-labelledby="t">
+  <title id="t">fastfetch — P6s-fx&#39;s GitHub profile, updated 28 Sept 2026</title>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; font-size: 13px; fill: #dbe7f3; white-space: pre; }
+    .ink { fill: #dbe7f3; } .soft { fill: #9fb0c2; } .mute { fill: #5f7184; }
+    .hl { fill: #1793d1; } .b { font-weight: 700; } .ok { fill: #6fd08c; }
+    .art { fill: url(#artfill); font-size: 13px; font-weight: 700; }
+    .cap { font-size: 11px; fill: #9fb0c2; }
+    .val { font-size: 10.5px; fill: #9fb0c2; }
+    .h { font-size: 12px; font-weight: 700; fill: #7fd0ff; letter-spacing: 1.5px; text-transform: uppercase; }
+    .big { font-size: 22px; font-weight: 700; fill: #dbe7f3; }
+    .f { animation: fade .5s ease-out both; }
+    .pop { animation: pop .35s ease-out both; transform-box: fill-box; transform-origin: center; }
+    .grow { animation: grow .8s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: 50% 100%; }
+    .wide { animation: wide .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: 0 50%; }
+    .cursor { animation: blink 1.05s steps(1) infinite; }
+    @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @keyframes pop { from { opacity: 0; transform: scale(.2); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleY(0); } to { transform: none; } }
+    @keyframes wide { from { transform: scaleX(0); } to { transform: none; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="0.08" cy="0" r="0.9">
+      <stop offset="0" stop-color="#1793d1" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#1793d1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity="0.018"/></pattern>
+    <clipPath id="win"><rect width="900" height="439" rx="12"/></clipPath>
+    <clipPath id="type"><rect x="172.2" y="50" width="72.2" height="24"><animate attributeName="width" values="0;7.8;15.6;23.4;31.2;39;46.8;54.6;62.4;70.2" calcMode="discrete" dur="0.32s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="900" height="439" fill="#0b1016"/>
+    <rect width="900" height="439" fill="url(#glow)"/>
+    <rect width="900" height="439" fill="url(#scan)"/>
+    <rect width="900" height="34" fill="#111923"/>
+    <line x1="0" y1="34.5" x2="900" y2="34.5" stroke="#1f2d3c"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="438" rx="11.5" fill="none" stroke="#1f2d3c"/>
+  <g transform="translate(14 9) scale(0.16)" fill="#1793d1"><path d="M50 2C45.6 12.9 42.9 20 38 30.4c3 3.2 6.7 6.9 12.7 11.1-6.5-2.7-10.9-5.4-14.2-8.2C30.2 46.5 20.3 65.3 0 100c15.9-9.2 28.3-14.9 39.8-17.1-.5-2.1-.8-4.4-.8-6.8l.02-.5c.3-10.4 5.7-18.3 12.1-17.8 6.4.5 11.4 9.4 11.1 19.8-.05 2-.3 3.9-.7 5.7C72.9 85.5 85 91.1 100 100c-2.9-5.4-5.6-10.3-8.2-14.9-4-3.1-8.2-7.2-16.7-11.6 5.8 1.5 10 3.3 13.3 5.2C62.9 30.4 60.3 22.5 50 2z"/></g>
+  <text x="450" y="22" class="cap" text-anchor="middle">p6s@archlinux: ~ — Konsole</text>
+  <g fill="none" stroke="#9fb0c2" stroke-width="1.4" stroke-linecap="round">
+    <path d="M824 17.5h8"/>
+    <path d="M850 13.5l4 4 4-4"/>
+    <circle cx="878" cy="17.5" r="7" fill="#1793d1" stroke="none"/>
+    <path d="M875 14.5l6 6M881 14.5l-6 6" stroke="#0b1016"/>
+  </g>
+  <text x="24" y="66"><tspan class="mute">[</tspan><tspan class="ok b">p6s@archlinux</tspan> <tspan class="hl b">~</tspan><tspan class="mute">]</tspan><tspan class="ink">$ </tspan></text>
+  <text x="172.2" y="66" clip-path="url(#type)" class="ink">fastfetch</text>
+  <rect x="245.4" y="54" width="8" height="15" fill="#1793d1" class="cursor"/>
+  
+  <defs>
+    <linearGradient id="artfill" x1="0" y1="92" x2="0" y2="408" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7fd0ff"/>
+      <stop offset="1" stop-color="#1793d1"/>
+    </linearGradient>
+  </defs>
+  <text x="24" y="104" class="art f" style="animation-delay:0.90s">                   -`</text>
+  <text x="24" y="120" class="art f" style="animation-delay:0.93s">                  .o+`</text>
+  <text x="24" y="136" class="art f" style="animation-delay:0.96s">                 `ooo/</text>
+  <text x="24" y="152" class="art f" style="animation-delay:0.99s">                `+oooo:</text>
+  <text x="24" y="168" class="art f" style="animation-delay:1.02s">               `+oooooo:</text>
+  <text x="24" y="184" class="art f" style="animation-delay:1.05s">               -+oooooo+:</text>
+  <text x="24" y="200" class="art f" style="animation-delay:1.08s">             `/:-:++oooo+:</text>
+  <text x="24" y="216" class="art f" style="animation-delay:1.11s">            `/++++/+++++++:</text>
+  <text x="24" y="232" class="art f" style="animation-delay:1.14s">           `/++++++++++++++:</text>
+  <text x="24" y="248" class="art f" style="animation-delay:1.17s">          `/+++ooooooooooooo/`</text>
+  <text x="24" y="264" class="art f" style="animation-delay:1.20s">         ./ooosssso++osssssso+`</text>
+  <text x="24" y="280" class="art f" style="animation-delay:1.23s">        .oossssso-````/ossssss+`</text>
+  <text x="24" y="296" class="art f" style="animation-delay:1.26s">       -osssssso.      :ssssssso.</text>
+  <text x="24" y="312" class="art f" style="animation-delay:1.29s">      :osssssss/        osssso+++.</text>
+  <text x="24" y="328" class="art f" style="animation-delay:1.32s">     /ossssssss/        +ssssooo/-</text>
+  <text x="24" y="344" class="art f" style="animation-delay:1.35s">   `/ossssso+/:-        -:/+osssso+-</text>
+  <text x="24" y="360" class="art f" style="animation-delay:1.38s">  `+sso+:-`                 `.-/+oso:</text>
+  <text x="24" y="376" class="art f" style="animation-delay:1.41s"> `++:.                           `-/+/</text>
+  <text x="24" y="392" class="art f" style="animation-delay:1.44s"> .`                                 `/</text>
+  <text x="340" y="104" class="f" style="animation-delay:1s"><tspan class="hl b">p6s</tspan><tspan class="ink">@</tspan><tspan class="hl b">archlinux</tspan></text>
+  <text x="340" y="121" class="ink f" style="animation-delay:1.04s">-------------</text>
+  <text x="340" y="138" class="f" style="animation-delay:1.08s"><tspan class="hl b">OS</tspan><tspan class="ink">: Arch Linux x86_64 · Windows 11 Pro</tspan></text>
+  <text x="340" y="155" class="f" style="animation-delay:1.13s"><tspan class="hl b">Host</tspan><tspan class="ink">: ASUS TUF Gaming F17 · Dell Inspiron 15-3567</tspan></text>
+  <text x="340" y="172" class="f" style="animation-delay:1.18s"><tspan class="hl b">Kernel</tspan><tspan class="ink">: 6.9.1-arch1-1</tspan></text>
+  <text x="340" y="189" class="f" style="animation-delay:1.23s"><tspan class="hl b">Shell</tspan><tspan class="ink">: bash 5.3.3</tspan></text>
+  <text x="340" y="206" class="f" style="animation-delay:1.28s"><tspan class="hl b">DE</tspan><tspan class="ink">: Plasma 6.4.4 (KWin)</tspan></text>
+  <text x="340" y="223" class="f" style="animation-delay:1.33s"><tspan class="hl b">Terminal</tspan><tspan class="ink">: Konsole · Nerd Font</tspan></text>
+  <text x="340" y="240" class="f" style="animation-delay:1.38s"><tspan class="hl b">CPU</tspan><tspan class="ink">: Intel i5-12500H · Intel i3-6006U</tspan></text>
+  <text x="340" y="257" class="f" style="animation-delay:1.43s"><tspan class="hl b">GPU</tspan><tspan class="ink">: RTX 3050 Mobile · Radeon R5 M330</tspan></text>
+  <text x="340" y="274" class="f" style="animation-delay:1.48s"><tspan class="hl b">Editor</tspan><tspan class="ink">: VS Code · Cursor · Windsurf</tspan></text>
+  <text x="340" y="291" class="f" style="animation-delay:1.53s"><tspan class="hl b">Uptime</tspan><tspan class="ink">: 4 years, 1 month (on GitHub since Aug 2022)</tspan></text>
+  <text x="340" y="308" class="f" style="animation-delay:1.58s"><tspan class="hl b">Packages</tspan><tspan class="ink">: 21 (public repos) · 1 ★ · 10 followers</tspan></text>
+  <text x="340" y="325" class="f" style="animation-delay:1.63s"><tspan class="hl b">Commits</tspan><tspan class="ink">: 2,256 last year · 2,614 all time</tspan></text>
+  <text x="340" y="342" class="f" style="animation-delay:1.68s"><tspan class="hl b">Streak</tspan><tspan class="ink">: 52 days (best 52) · 215/366 days active</tspan></text>
+  <text x="340" y="359" class="f" style="animation-delay:1.73s"><tspan class="hl b">Top lang</tspan><tspan class="ink">: TypeScript 90.7% · JavaScript 6.63%</tspan></text>
+  <text x="340" y="376" class="f" style="animation-delay:1.78s"><tspan class="hl b">Work</tspan><tspan class="ink">: Tassos Consultancy · Ahmedabad, IN</tspan></text>
+  <rect x="340" y="399" width="24" height="14" fill="#1d2631" class="f" style="animation-delay:1.90s"/><rect x="366" y="399" width="24" height="14" fill="#e05561" class="f" style="animation-delay:1.95s"/><rect x="392" y="399" width="24" height="14" fill="#6fd08c" class="f" style="animation-delay:2.00s"/><rect x="418" y="399" width="24" height="14" fill="#e6c07b" class="f" style="animation-delay:2.05s"/><rect x="444" y="399" width="24" height="14" fill="#1793d1" class="f" style="animation-delay:2.10s"/><rect x="470" y="399" width="24" height="14" fill="#c678dd" class="f" style="animation-delay:2.15s"/><rect x="496" y="399" width="24" height="14" fill="#56b6c2" class="f" style="animation-delay:2.20s"/><rect x="522" y="399" width="24" height="14" fill="#dbe7f3" class="f" style="animation-delay:2.25s"/>
+</svg>

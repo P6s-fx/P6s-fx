@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="t">
+  <title id="t">tokei ~/github --sort code — P6s-fx&#39;s GitHub profile, updated 28 Sept 2026</title>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; font-size: 13px; fill: #dbe7f3; white-space: pre; }
+    .ink { fill: #dbe7f3; } .soft { fill: #9fb0c2; } .mute { fill: #5f7184; }
+    .hl { fill: #1793d1; } .b { font-weight: 700; } .ok { fill: #6fd08c; }
+    .art { fill: url(#artfill); font-size: 13px; font-weight: 700; }
+    .cap { font-size: 11px; fill: #9fb0c2; }
+    .val { font-size: 10.5px; fill: #9fb0c2; }
+    .h { font-size: 12px; font-weight: 700; fill: #7fd0ff; letter-spacing: 1.5px; text-transform: uppercase; }
+    .big { font-size: 22px; font-weight: 700; fill: #dbe7f3; }
+    .f { animation: fade .5s ease-out both; }
+    .pop { animation: pop .35s ease-out both; transform-box: fill-box; transform-origin: center; }
+    .grow { animation: grow .8s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: 50% 100%; }
+    .wide { animation: wide .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: 0 50%; }
+    .cursor { animation: blink 1.05s steps(1) infinite; }
+    @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @keyframes pop { from { opacity: 0; transform: scale(.2); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleY(0); } to { transform: none; } }
+    @keyframes wide { from { transform: scaleX(0); } to { transform: none; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="0.08" cy="0" r="0.9">
+      <stop offset="0" stop-color="#1793d1" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#1793d1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity="0.018"/></pattern>
+    <clipPath id="win"><rect width="900" height="360" rx="12"/></clipPath>
+    <clipPath id="type"><rect x="172.2" y="50" width="204.8" height="24"><animate attributeName="width" values="0;7.8;15.6;23.4;31.2;39;46.8;54.6;62.4;70.2;78;85.8;93.6;101.4;109.2;117;124.8;132.6;140.4;148.2;156;163.8;171.6;179.4;187.2;195;202.8" calcMode="discrete" dur="0.91s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="900" height="360" fill="#0b1016"/>
+    <rect width="900" height="360" fill="url(#glow)"/>
+    <rect width="900" height="360" fill="url(#scan)"/>
+    <rect width="900" height="34" fill="#111923"/>
+    <line x1="0" y1="34.5" x2="900" y2="34.5" stroke="#1f2d3c"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="359" rx="11.5" fill="none" stroke="#1f2d3c"/>
+  <g transform="translate(14 9) scale(0.16)" fill="#1793d1"><path d="M50 2C45.6 12.9 42.9 20 38 30.4c3 3.2 6.7 6.9 12.7 11.1-6.5-2.7-10.9-5.4-14.2-8.2C30.2 46.5 20.3 65.3 0 100c15.9-9.2 28.3-14.9 39.8-17.1-.5-2.1-.8-4.4-.8-6.8l.02-.5c.3-10.4 5.7-18.3 12.1-17.8 6.4.5 11.4 9.4 11.1 19.8-.05 2-.3 3.9-.7 5.7C72.9 85.5 85 91.1 100 100c-2.9-5.4-5.6-10.3-8.2-14.9-4-3.1-8.2-7.2-16.7-11.6 5.8 1.5 10 3.3 13.3 5.2C62.9 30.4 60.3 22.5 50 2z"/></g>
+  <text x="450" y="22" class="cap" text-anchor="middle">tokei ~/github --sort code</text>
+  <g fill="none" stroke="#9fb0c2" stroke-width="1.4" stroke-linecap="round">
+    <path d="M824 17.5h8"/>
+    <path d="M850 13.5l4 4 4-4"/>
+    <circle cx="878" cy="17.5" r="7" fill="#1793d1" stroke="none"/>
+    <path d="M875 14.5l6 6M881 14.5l-6 6" stroke="#0b1016"/>
+  </g>
+  <text x="24" y="66"><tspan class="mute">[</tspan><tspan class="ok b">p6s@archlinux</tspan> <tspan class="hl b">~</tspan><tspan class="mute">]</tspan><tspan class="ink">$ </tspan></text>
+  <text x="172.2" y="66" clip-path="url(#type)" class="ink">tokei ~/github --sort code</text>
+  <rect x="378" y="54" width="8" height="15" fill="#1793d1" class="cursor"/>
+  
+  <defs><clipPath id="clip-m"><rect x="24" y="114" width="852" height="10" rx="5"/></clipPath><clipPath id="clip-r"><rect x="24" y="280" width="852" height="10" rx="5"/></clipPath></defs>
+  <text x="24" y="100" class="h">most used</text>
+  <text x="876" y="100" class="cap" text-anchor="end">by bytes of code across 12 repositories</text>
+  <g clip-path="url(#clip-m)"><g class="wide" style="animation-delay:0.9s"><rect x="24" y="114" width="772.9" height="10" fill="#3178c6"/><rect x="796.9" y="114" width="56.5" height="10" fill="#f1e05a"/><rect x="853.4" y="114" width="14.5" height="10" fill="#336790"/><rect x="867.9" y="114" width="7.3" height="10" fill="#3572A5"/><rect x="875.2" y="114" width="0.8" height="10" fill="#f34b7d"/></g></g>
+  <g class="f" style="animation-delay:1.20s">
+    <circle cx="29" cy="144" r="4.5" fill="#3178c6"/>
+    <text x="40" y="148" class="ink">TypeScript</text>
+    <text x="430" y="148" class="cap" text-anchor="end">6.88 MB · 90.7%</text>
+    <rect x="40" y="155" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="40" y="155" width="353.8" height="3" rx="1.5" fill="#3178c6" class="wide" style="animation-delay:1.40s"/>
+  </g>
+  <g class="f" style="animation-delay:1.25s">
+    <circle cx="475" cy="144" r="4.5" fill="#f1e05a"/>
+    <text x="486" y="148" class="ink">JavaScript</text>
+    <text x="876" y="148" class="cap" text-anchor="end">515.0 kB · 6.63%</text>
+    <rect x="486" y="155" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="486" y="155" width="25.9" height="3" rx="1.5" fill="#f1e05a" class="wide" style="animation-delay:1.45s"/>
+  </g>
+  <g class="f" style="animation-delay:1.30s">
+    <circle cx="29" cy="176" r="4.5" fill="#336790"/>
+    <text x="40" y="180" class="ink">PLpgSQL</text>
+    <text x="430" y="180" class="cap" text-anchor="end">132.3 kB · 1.70%</text>
+    <rect x="40" y="187" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="40" y="187" width="6.6" height="3" rx="1.5" fill="#336790" class="wide" style="animation-delay:1.50s"/>
+  </g>
+  <g class="f" style="animation-delay:1.35s">
+    <circle cx="475" cy="176" r="4.5" fill="#3572A5"/>
+    <text x="486" y="180" class="ink">Python</text>
+    <text x="876" y="180" class="cap" text-anchor="end">66.2 kB · 0.85%</text>
+    <rect x="486" y="187" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="486" y="187" width="3.3" height="3" rx="1.5" fill="#3572A5" class="wide" style="animation-delay:1.55s"/>
+  </g>
+  <g class="f" style="animation-delay:1.40s">
+    <circle cx="29" cy="208" r="4.5" fill="#f34b7d"/>
+    <text x="40" y="212" class="ink">C++</text>
+    <text x="430" y="212" class="cap" text-anchor="end">7.5 kB · 0.10%</text>
+    <rect x="40" y="219" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="40" y="219" width="2" height="3" rx="1.5" fill="#f34b7d" class="wide" style="animation-delay:1.60s"/>
+  </g>
+  <text x="24" y="266" class="h">recently used</text>
+  <text x="876" y="266" class="cap" text-anchor="end">weighted by 37 public commits in the last 90 days</text>
+  <g clip-path="url(#clip-r)"><g class="wide" style="animation-delay:1.5s"><rect x="24" y="280" width="852" height="10" fill="#f1e05a"/></g></g>
+  <g class="f" style="animation-delay:1.80s">
+    <circle cx="29" cy="310" r="4.5" fill="#f1e05a"/>
+    <text x="40" y="314" class="ink">JavaScript</text>
+    <text x="430" y="314" class="cap" text-anchor="end">100%</text>
+    <rect x="40" y="321" width="390" height="3" rx="1.5" fill="#131c27"/>
+    <rect x="40" y="321" width="390" height="3" rx="1.5" fill="#f1e05a" class="wide" style="animation-delay:2.00s"/>
+  </g>
+</svg>

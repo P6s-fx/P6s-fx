@@ -1,29 +1,59 @@
+# Profile metrics: redraws the cards in assets/ (and the hidden isometric
+# calendar) from GitHub's own numbers, and commits them when they change.
+#
+# PROFILE_TOKEN is optional. Without it the job uses the workflow's own token,
+# which sees public repositories only. A personal token with read access also
+# lets private repositories into the language totals.
+#
+# A push made with GITHUB_TOKEN starts no other workflow, so the commit below
+# cannot trigger this workflow again.
+
 name: Profile metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 */6 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Generate metrics
+
+      - name: Draw the cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
+          node scripts/profile-stats.mjs
           node scripts/generate-isocalendar.mjs
-          node scripts/generate-languages.mjs
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update profile metrics"
-          file_pattern: metrics.plugin.isocalendar.fullyear.svg metrics.plugin.languages.svg
+
+      - name: Commit them, unless only the date changed
+        run: |
+          git add assets metrics.plugin.isocalendar.fullyear.svg
+          if git diff --cached --quiet -I 'updated [0-9]'; then
+            echo "Nothing but the date changed; not committing."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile cards [skip ci]"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            git pull --rebase origin main
+          done
+          exit 1
