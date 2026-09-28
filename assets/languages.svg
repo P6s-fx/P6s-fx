@@ -90,7 +90,7 @@
     <rect x="40" y="219" width="2" height="3" rx="1.5" fill="#f34b7d" class="wide" style="animation-delay:1.60s"/>
   </g>
   <text x="24" y="266" class="h">recently used</text>
-  <text x="876" y="266" class="cap" text-anchor="end">weighted by 37 public commits in the last 90 days</text>
+  <text x="876" y="266" class="cap" text-anchor="end">weighted by 39 public commits in the last 90 days</text>
   <g clip-path="url(#clip-r)"><g class="wide" style="animation-delay:1.5s"><rect x="24" y="280" width="852" height="10" fill="#f1e05a"/></g></g>
   <g class="f" style="animation-delay:1.80s">
     <circle cx="29" cy="310" r="4.5" fill="#f1e05a"/>
