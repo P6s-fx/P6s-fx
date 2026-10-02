@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="460" viewBox="0 0 900 460" role="img" aria-labelledby="t">
-  <title id="t">gh stats --rhythm --since 2022 — P6s-fx&#39;s GitHub profile, updated 1 Oct 2026</title>
+  <title id="t">gh stats --rhythm --since 2022 — P6s-fx&#39;s GitHub profile, updated 2 Oct 2026</title>
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; font-size: 13px; fill: #dbe7f3; white-space: pre; }
     .ink { fill: #dbe7f3; } .soft { fill: #9fb0c2; } .mute { fill: #5f7184; }
@@ -69,14 +69,14 @@
   <rect x="364.2" y="249" width="28" height="13" rx="3" fill="url(#bar)" class="grow" style="animation-delay:1.48s"/><text x="378.2" y="243" class="val f" text-anchor="middle" style="animation-delay:1.98s">81</text><text x="378.2" y="279" class="cap" text-anchor="middle">Jul</text>
   <rect x="405.8" y="156" width="28" height="106" rx="3" fill="url(#bar)" class="grow" style="animation-delay:1.54s"/><text x="419.8" y="150" class="val f" text-anchor="middle" style="animation-delay:2.04s">684</text><text x="419.8" y="279" class="cap" text-anchor="middle">Aug</text>
   <rect x="447.5" y="142" width="28" height="120" rx="3" fill="url(#barhot)" class="grow" style="animation-delay:1.60s"/><text x="461.5" y="136" class="val f" text-anchor="middle" style="animation-delay:2.10s">776</text><text x="461.5" y="279" class="cap" text-anchor="middle">Sept</text>
-  <rect x="489.2" y="259" width="28" height="3" rx="3" fill="url(#bar)" class="grow" style="animation-delay:1.66s"/><text x="503.2" y="253" class="val f" text-anchor="middle" style="animation-delay:2.16s">10</text><text x="503.2" y="279" class="cap" text-anchor="middle">Oct</text>
+  <rect x="489.2" y="257" width="28" height="5" rx="3" fill="url(#bar)" class="grow" style="animation-delay:1.66s"/><text x="503.2" y="251" class="val f" text-anchor="middle" style="animation-delay:2.16s">34</text><text x="503.2" y="279" class="cap" text-anchor="middle">Oct</text>
   <text x="568" y="100" class="h">per weekday</text>
   <text x="876" y="100" class="cap" text-anchor="end">busiest: Sat</text>
   <text x="568" y="135" class="cap">Mon</text><rect x="608" y="126" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="126" width="101" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.10s"/><text x="876" y="135" class="val" text-anchor="end">222</text>
   <text x="568" y="155" class="cap">Tue</text><rect x="608" y="146" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="146" width="110" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.17s"/><text x="876" y="155" class="val" text-anchor="end">241</text>
   <text x="568" y="175" class="cap">Wed</text><rect x="608" y="166" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="166" width="104" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.24s"/><text x="876" y="175" class="val" text-anchor="end">229</text>
   <text x="568" y="195" class="cap">Thu</text><rect x="608" y="186" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="186" width="114" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.31s"/><text x="876" y="195" class="val" text-anchor="end">251</text>
-  <text x="568" y="215" class="cap">Fri</text><rect x="608" y="206" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="206" width="183" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.38s"/><text x="876" y="215" class="val" text-anchor="end">403</text>
+  <text x="568" y="215" class="cap">Fri</text><rect x="608" y="206" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="206" width="194" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.38s"/><text x="876" y="215" class="val" text-anchor="end">427</text>
   <text x="568" y="235" class="cap">Sat</text><rect x="608" y="226" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="226" width="224" height="11" rx="3" fill="#7fd0ff" class="wide" style="animation-delay:1.45s"/><text x="876" y="235" class="val" text-anchor="end">493</text>
   <text x="568" y="255" class="cap">Sun</text><rect x="608" y="246" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="246" width="198" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.52s"/><text x="876" y="255" class="val" text-anchor="end">435</text>
   <line x1="24" y1="296" x2="876" y2="296" stroke="#1f2d3c" stroke-dasharray="2 4"/>
