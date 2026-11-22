@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="460" viewBox="0 0 900 460" role="img" aria-labelledby="t">
-  <title id="t">gh stats --rhythm --since 2022 — P6s-fx&#39;s GitHub profile, updated 21 Nov 2026</title>
+  <title id="t">gh stats --rhythm --since 2022 — P6s-fx&#39;s GitHub profile, updated 22 Nov 2026</title>
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; font-size: 13px; fill: #dbe7f3; white-space: pre; }
     .ink { fill: #dbe7f3; } .soft { fill: #9fb0c2; } .mute { fill: #5f7184; }
@@ -73,8 +73,8 @@
   <text x="568" y="100" class="h">per weekday</text>
   <text x="876" y="100" class="cap" text-anchor="end">busiest: Sat</text>
   <text x="568" y="135" class="cap">Mon</text><rect x="608" y="126" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="126" width="165" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.10s"/><text x="876" y="135" class="val" text-anchor="end">506</text>
-  <text x="568" y="155" class="cap">Tue</text><rect x="608" y="146" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="146" width="144" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.17s"/><text x="876" y="155" class="val" text-anchor="end">440</text>
-  <text x="568" y="175" class="cap">Wed</text><rect x="608" y="166" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="166" width="132" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.24s"/><text x="876" y="175" class="val" text-anchor="end">405</text>
+  <text x="568" y="155" class="cap">Tue</text><rect x="608" y="146" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="146" width="143" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.17s"/><text x="876" y="155" class="val" text-anchor="end">437</text>
+  <text x="568" y="175" class="cap">Wed</text><rect x="608" y="166" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="166" width="131" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.24s"/><text x="876" y="175" class="val" text-anchor="end">402</text>
   <text x="568" y="195" class="cap">Thu</text><rect x="608" y="186" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="186" width="156" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.31s"/><text x="876" y="195" class="val" text-anchor="end">477</text>
   <text x="568" y="215" class="cap">Fri</text><rect x="608" y="206" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="206" width="211" height="11" rx="3" fill="#1793d1" class="wide" style="animation-delay:1.38s"/><text x="876" y="215" class="val" text-anchor="end">647</text>
   <text x="568" y="235" class="cap">Sat</text><rect x="608" y="226" width="224" height="11" rx="3" fill="#131c27"/><rect x="608" y="226" width="224" height="11" rx="3" fill="#7fd0ff" class="wide" style="animation-delay:1.45s"/><text x="876" y="235" class="val" text-anchor="end">686</text>
